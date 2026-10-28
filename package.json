@@ -1,0 +1,13 @@
+{
+  "name": "melnik-node-ci",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Мельник А.А.",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "5.3.0"
+  }
+}
